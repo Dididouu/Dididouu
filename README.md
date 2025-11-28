@@ -15,7 +15,7 @@ I love to watch TV series, learn languages, cook and play video games <br><br>
 
 
 
-## Projects 
+## ![📖](assets/Pokedex32.png) Projects 
 
 <table>
   <tr>
