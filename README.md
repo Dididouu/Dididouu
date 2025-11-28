@@ -2,25 +2,20 @@
 
 🇬🇧 I am Computer Science student based in Alsace, France and am currently looking for an intership !
 
-🇫🇷 Je suis un étudiant en informatique en Alsace et je suis actuellement à la recherche d'un stage !
+🇫🇷 Je suis étudiant, je préparé un BUT Informatique : Parcours développement d'application en Alsace et je suis actuellement à la recherche d'un stage !
 
 ## ![🔍](assets/wide-lens.png) About me
 
-```javascript
-var diya = {
-    degree : "BUT Informatique, Développement d'Applications @ University of Strasbourg",
-    focus: ["Our serious game", "Networking", "Web Development"],
-    languages: ["French", "English", "Arabic", "German"],
-    passions: ["Videogames", "Cooking", "Sports", "Traveling", "Reading"]
-};
-```
+I am french-algerian 🇫🇷🇩🇿 <br>
+Estou a aprender português 🇵🇹 <br>
+Currently struggling with OOP... <br>
+I'd kill for a shawarma or kebab right now 🥙 <br>
+I love to watch TV series, learn languages, cook and play video games <br><br>
+![Mario 1-1](assets/mario1-1.png) 
 
-#### Studies 
-What am I learning :
 
 
 ## Projects 
-
 
 <table>
   <tr>
@@ -114,7 +109,7 @@ What am I learning :
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-## ![🏅](assets/championgen8-32.png) 🇬🇧 Goals 🇫🇷 Objectifs 
+## ![🏅](assets/championgen8-32.png) Goals / Objectifs 
 
 - **Court terme / Short term**
   - 🇬🇧 Improve myself in web development and learn to produce more efficient code. 
@@ -135,4 +130,4 @@ Don't hesitate to get in touch with me, I'll answer as soon as possible !
 
 
 
-<a href="discord://-/users/359386339722002442"><img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> 
+<a href="discord://-/users/359386339722002442"><img src ="https://img.shields.io/badge/@dididou-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> 
