@@ -73,7 +73,7 @@ I love to watch TV series, learn languages, cook and play video games <br><br>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Archi Pôle Nord 🧊</h3>
+      <h3 align="center"><a href = 'https://github.com/Dididouu/ArchiPoleSud'>Archi Pôle Sud 🧊</a></h3>
       <div align="center">
         <a href="#">
           <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
@@ -81,9 +81,9 @@ I love to watch TV series, learn languages, cook and play video games <br><br>
         </a>
         <br/>
         <p>
-          <strong>🇬🇧 Our serious game about building the best place to live for a crew of scientists in the north pole!</strong>
+          <strong>🇬🇧 Our serious game about building the best place to live for a crew of scientists in the south pole!</strong>
           <br/>
-          <strong>🇫🇷 Notre jeu sérieux ou il faut construire le meilleur milieu de vie pour une équipe de scientifiques au Pôle Nord !</strong>
+          <strong>🇫🇷 Notre jeu sérieux ou il faut construire le meilleur milieu de vie pour une équipe de scientifiques au Pôle Sud !</strong>
         </p>
       </div>
     </td>
