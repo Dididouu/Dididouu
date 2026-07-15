@@ -1,8 +1,8 @@
 # ![🔥](assets/BRedRunning.png) Hey, I'm Diya ![🔥](assets/BRedRunning.png)
 
-🇬🇧 I am Computer Science student based in Alsace, France and am currently looking for an intership !
+🇬🇧 I am Computer Science student based in Alsace, France and am currently looking for an apprenticeship for the 26/27 school year !
 
-🇫🇷 Je suis étudiant, je préparé un BUT Informatique : Parcours développement d'application en Alsace et je suis actuellement à la recherche d'un stage !
+🇫🇷 Je suis étudiant, je prépare un BUT Informatique : Parcours développement d'application en Alsace et je suis actuellement à la recherche d'une alternance pour la rentrée 2026/27 !
 
 ## ![🔍](assets/wide-lens.png) About me
 
@@ -77,7 +77,7 @@ I love to watch TV series, learn languages, cook and play video games <br><br>
       <div align="center">
         <a href="#">
           <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
-          <img src='https://img.shields.io/badge/Status-Ongoing-yellow?style=for-the-badge'>
+          <img src='https://img.shields.io/badge/Status-Finished-brightgreen?style=for-the-badge'>
         </a>
         <br/>
         <p>
@@ -102,18 +102,20 @@ I love to watch TV series, learn languages, cook and play video games <br><br>
 
 #### Frameworks
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 #### Databases
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<br>
+![Doctrine](https://img.shields.io/badge/Doctrine-%23326CE5?style=for-the-badge&logo=doctrine&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 ## ![🏅](assets/championgen8-32.png) Goals / Objectifs 
 
 - **Court terme / Short term**
-  - 🇬🇧 Improve myself in web development and learn to produce more efficient code. 
-  - 🇫🇷 M'améliorer en développement web et apprendre à produire du code plus efficace.
+  - 🇬🇧 Improve myself in low-level development and learn to produce more efficient code. 
+  - 🇫🇷 M'améliorer en développement bas niveau et apprendre à produire du code plus efficace.
 
 - **Long terme** 
   - 🇬🇧 Throwing myself deeper in the Networking sea, a subject that recently really started to interest me.
